@@ -77,6 +77,11 @@
 
     // Japanese Language Pack for Visual Studio Code
     // https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-ja
-    "ms-ceintl.vscode-language-pack-ja"
+    "ms-ceintl.vscode-language-pack-ja",
+    
+    /////
+    /// Personal
+    //
+    "vscodevim.vim"
   ]
 }
