@@ -28,5 +28,11 @@
     "no-trailing-punctuation": false, // MD026: Allow headings with . ,;:
     "no-inline-html": false, // MD033: Allow HTML description
     "no-bare-urls": false // MD034: Allow URLs to be written as is
-  }
+  },
+  "workbench.colorTheme": "Visual Studio Light",
+  "workbench.editor.decorations.colors": true,
+  "workbench.preferredDarkColorTheme": "Visual Studio Dark",
+  "workbench.preferredHighContrastColorTheme": "Default Dark+",
+  "workbench.preferredHighContrastLightColorTheme": "Visual Studio Light",
+  "workbench.preferredLightColorTheme": "Visual Studio Light"
 }
