@@ -2,8 +2,8 @@
 title: "VoiceflowのAIアシスト機能を試してみた①Generative Tasks"
 emoji: "🗣️"
 type: "tech" # tech: 技術記事 / idea: アイデア
-topics: ["Voiceflow","Voice","LLM"]
-published: false
+topics: ["Voiceflow","LLM","VUI","チャットボット"]
+published: true
 ---
 
 ## 「AIアシスト機能」とは？
