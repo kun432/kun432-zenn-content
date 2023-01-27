@@ -34,5 +34,6 @@
   "workbench.preferredDarkColorTheme": "Visual Studio Dark",
   "workbench.preferredHighContrastColorTheme": "Default Dark+",
   "workbench.preferredHighContrastLightColorTheme": "Visual Studio Light",
-  "workbench.preferredLightColorTheme": "Visual Studio Light"
+  "workbench.preferredLightColorTheme": "Visual Studio Light",
+  "files.insertFinalNewline": true
 }

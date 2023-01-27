@@ -20,6 +20,8 @@
         "max": 150
       },
       "no-exclamation-question-mark": {
+        "allowHalfWidthExclamation": true,
+        "allowHalfWidthQuestion": true,
         "allowFullWidthExclamation": true,
         "allowFullWidthQuestion": true
       },
