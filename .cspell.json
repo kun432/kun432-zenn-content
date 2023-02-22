@@ -8,6 +8,9 @@
     "joshi",
     "textlintrc",
     "zenn",
+    "plotly",
+    "pyparsing",
+    "netkeiba",
     "alexa"
   ],
   // flagWords - list of words to be always considered incorrect

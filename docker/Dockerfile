@@ -1,5 +1,10 @@
 FROM node:lts-slim
 
+RUN apt update \
+  && apt install -y task-japanese locales locales-all \
+  && locale-gen ja_JP.UTF-8 \
+  && echo "export LANG=ja_JP.UTF-8" >> ~/.bashrc
+
 WORKDIR /workspace
 
 ADD .husky/pre-commit ./.husky/pre-commit
