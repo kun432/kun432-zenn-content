@@ -197,14 +197,14 @@ VCのエコシステムは言うに及ばず、ある特定の種類のデータ
 
 **このシリーズの他の記事**
 
-- [Vector databases (Part 2): Understanding their internals](https://thedataquarry.com/posts/vector-db-2/)
-- [Vector databases (Part 3): Not all indexes are created equal](https://thedataquarry.com/posts/vector-db-3/)
-- [Vector databases (Part 4): Analyzing the trade-offs](https://thedataquarry.com/posts/vector-db-4/)
+- Vector databases (Part 2): Understanding their internals [[元記事]](https://thedataquarry.com/posts/vector-db-2/) [[日本語訳]](https://zenn.dev/kun432/articles/20230921-vector-databases-jp-part-2)
+- Vector databases (Part 3): Not all indexes are created equal [[元記事]](https://thedataquarry.com/posts/vector-db-3/)
+- Vector databases (Part 4): Analyzing the trade-offs [[元記事]](https://thedataquarry.com/posts/vector-db-4/)
 
 :::message alert
 
 **訳者注:**
-パート2以降は順次翻訳予定です。翻訳完了までは元記事へリンクしておきます。是非元記事も読んでみてほしいです。
+パート3以降は順次翻訳予定です。是非元記事も読んでみてほしいです。
 
 :::
 
