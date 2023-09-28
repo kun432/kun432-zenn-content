@@ -23,7 +23,6 @@ https://twitter.com/tech_optimist
 
 前回の日本語訳はこちら
 
-
 https://zenn.dev/kun432/articles/20230921-vector-databases-jp-part-2
 
 :::message alert
@@ -237,7 +236,7 @@ Milvus、Weaviate、Qdrant、LanceDBなどのデータベースでは、直積�
 
 - Vector databases (Part 1): What makes each one different? [[元記事]](https://thedataquarry.com/posts/vector-db-1/) [[日本語訳]](https://zenn.dev/kun432/articles/20230921-vector-databases-jp-part-1)
 - Vector databases (Part 2): Understanding their internals [[元記事]](https://thedataquarry.com/posts/vector-db-2/) [[日本語訳]](https://zenn.dev/kun432/articles/20230921-vector-databases-jp-part-2)
-- Vector databases (Part 4): Analyzing the trade-offs [[元記事]](https://thedataquarry.com/posts/vector-db-4/)
+- Vector databases (Part 4): Analyzing the trade-offs [[元記事]](https://thedataquarry.com/posts/vector-db-4/) [[日本語訳]](https://zenn.dev/kun432/articles/20230928-vector-databases-jp-part-4)
 
 :::message alert
 
